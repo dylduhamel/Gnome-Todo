@@ -115,7 +115,6 @@ include $(top_srcdir)/gtk-doc.make
 EXTRA_DIST += \
 	version.xml.in
 
-
 if ENABLE_GTK_DOC
 
 TESTS_ENVIRONMENT = \
